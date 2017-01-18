@@ -1,0 +1,58 @@
+
+ul, li {
+   margin: 0; padding: 0;
+   }
+ul {
+ list-style: none;
+
+}
+
+
+li {
+    float: left;
+    padding:10px;
+    background-color: red;
+    font-size: 15px;
+    border: solid black 1px;
+    border-radius: 10px;
+    padding: : 9px;
+    margin: 5px;
+
+}
+ li a {
+     color:white;
+     font-size: 15px;
+     text-decoration: none;
+ }
+li a:hover {
+
+
+}
+li:hover {
+    background-color: gray;
+
+}
+li:onclick {
+
+}
+
+#fire {
+    height:200px;
+    float: left;
+
+    border: solid black 3px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+h2 {}
+
+main{
+    float: none;
+}
+.tex{
+    float:left;
+
+}
+#ASK {
+    float: right;
+}
